@@ -13,7 +13,10 @@ please let the teacher staff know, so that we can improve the documentation.
 Go to [claude.ai](claude.ai)
 Log in with yourEID@eid.utexas.edu
 
-If you have any access issues, reach out to UT's 
+If you have any access issues, reach out to UT's Enterprise Technology Support Center:
+- In person: 1st floor of FAC
+- Phone: 512-475-9400
+- Online: [https://ut.service-now.com/sp](https://ut.service-now.com/sp)
 
 
 ### <a id="2"></a>2. Install Claude Code
